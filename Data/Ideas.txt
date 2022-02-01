@@ -1,0 +1,2 @@
+>	we can add a password lock to access advanced assistant
+>	we can add chatbot
